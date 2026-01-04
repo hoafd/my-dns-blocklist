@@ -38,7 +38,6 @@ Nếu bạn thấy các dự án này hữu ích, bạn có thể ủng hộ tô
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/hoa0290303s)
 
-*Hoặc quét mã QR qua trang cá nhân:* [buymeacoffee.com/hoa0290303s](https://www.buymeacoffee.com/hoa0290303s)
 
 ---
 
