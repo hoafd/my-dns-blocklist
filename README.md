@@ -32,5 +32,15 @@ Hãy copy link dưới đây và dán vào phần **DNS Blocklists** trong AdGua
 
 ---
 
+## ☕ Support my work
+
+Nếu bạn thấy các dự án này hữu ích, bạn có thể ủng hộ tôi để duy trì server và phát triển thêm nhiều công cụ miễn phí khác:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/hoa0290303s)
+
+*Hoặc quét mã QR qua trang cá nhân:* [buymeacoffee.com/hoa0290303s](https://www.buymeacoffee.com/hoa0290303s)
+
+---
+
 ## ⚖️ Giấy phép
 Dự án được cấp phép theo [MIT License](LICENSE). Copyright (c) 2026 **hoafd**.
